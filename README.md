@@ -4,4 +4,4 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 
-<a href="https://github.com/Norberto-Perez1/Managing-users-and-group-policies-with-Active-Directory">Managing Users and group policies with active directory</a>☺</h1>
+- <a href="https://github.com/Norberto-Perez1/Managing-users-and-group-policies-with-Active-Directory">Managing Users and group policies with active directory</a>☺</h1>
